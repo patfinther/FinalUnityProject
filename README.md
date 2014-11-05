@@ -5,5 +5,5 @@ This is a Unity test project!
 
 Yes it is!
 
-    * Point 1
-    * Point 2
+* Point 1
+* Point 2
